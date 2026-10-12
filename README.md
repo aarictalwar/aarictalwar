@@ -10,4 +10,7 @@ I am currently enrolled in Brightchamps coding classes and have been with them f
 
 <a href="https://discord.com/users/1473973967160082485">
     <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="40" />
+
+ Discord Me
   </a>
+
