@@ -4,7 +4,7 @@
 
 ## About me 👦
  
-I am currently enrolled in Brightchamps coding classes and have been with them for 3+ years. As a 12-year-old kid, people say I am out of the ordinary because of the amount I know about tech. Some people take it as a bad thing, but I take it as a good thing because I say, "If someone says something bad to you, there's always a good way to take it". Most people start their tech journey with UNI or High School,but I started mine when i was 6 with a Vivo Y12 that I explored to the fullest, with countless mistakes like changing my dad's Google account age to 7, etc;.
+I am currently enrolled in Brightchamps coding classes and have been with them for 3+ years. As a 12-year-old kid, people say I am out of the ordinary because of the amount I know about tech. Some people take it as a bad thing, but I take it as a good thing because I say, "If someone says something bad to you, there's always a good way to take it". Most people start their tech journey with UNI or High School,but I started mine when i was 6 with a Vivo Y12 that I explored to the fullest, with countless mistakes like changing my dad's Google account age to 7, etc.Also, I have a portfolio website that you can visit at https://aaricportfolio.netlify.app/ (Version 1.0)
 
 ### 💻 My Tech Stack
 
